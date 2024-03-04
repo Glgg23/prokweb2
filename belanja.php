@@ -13,7 +13,7 @@
     <hr>
     <div class="row mx-5">
         <div class="col-12 col-md-8">
-        <form method="POST" action="jawab.php">
+        <form method="POST" action="jumlah.php">
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 
 
